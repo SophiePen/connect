@@ -4,7 +4,7 @@
     <version>12.0.0.0</version>
     <date-created>04/05/2022 15:38:10</date-created>
   </created-by>
-  <site url="d1-vfire-02/finance/core.aspx">
+  <site url="http://d1-vfire-02/finance/core.aspx">
     <compat-mode>Default</compat-mode>
     <open-in app="true" allow-redirect="true">IE11</open-in>
   </site>
